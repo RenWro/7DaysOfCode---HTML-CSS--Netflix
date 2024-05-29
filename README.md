@@ -1,10 +1,10 @@
 <h1> #7DaysOfCode Alura - HTML e CSS - Netflix </h1>
 
-![7daysof](https://github.com/RenWro/7DaysOfCode-GitHub/assets/134458911/b38ca43b-907a-479e-a651-13791e7c603a)
+![7daysof](https://github.com/RenWro/7DaysOfCode-GitHub/assets/134458911/b38ca43b-907a-479e-a651-13791e7c603a) <br>
 
 
 <h1>Figma</h1>
-1. [Figma do projeto](https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura) <br>
+[Figma do projeto](https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura) <br>
 
 <h1>Vídeos propostos</h1>
 
@@ -17,6 +17,8 @@
 3. [O que é o HTML e suas tags? Parte 3: elementos block-level](https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=ActiveCampaign&utm_medium=email)--->
 4. [Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox) <br>
 5. [Criando componentes CSS com o padrão BEM](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem) <br>
+
+
 
 
 <h1>Referências externas</h1>
