@@ -4,7 +4,7 @@
 
 
 <h1>Figma</h1>
-[Figma do projeto](https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura?node-id=0-1)
+[Figma do projeto](https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura?node-id=0-1) <br>
 
 <h1>Vídeos propostos</h1>
 
