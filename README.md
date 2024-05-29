@@ -21,6 +21,6 @@
 
 <h1>Referências externas</h1>
 
-1.[Flexbox](https://flexboxfroggy.com/)
-2.[TinyPNG](https://tinypng.com/)
-3.[FontAwesome](https://fontawesome.com/)
+1.[Flexbox](https://flexboxfroggy.com/) <br>
+2.[TinyPNG](https://tinypng.com/) <br>
+3.[FontAwesome](https://fontawesome.com/) <br>
