@@ -4,30 +4,23 @@
 
 
 <h1>Figma</h1>
-[Figma do projeto](https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura?node-id=0-1) <br>
+1. [Figma do projeto](https://www.figma.com/design/boX9zUOYGNRuadqPh4JwwE/Alura) <br>
 
 <h1>Vídeos propostos</h1>
 
 1. [Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox) <br>
-2. [](https://www.youtube.com/watch?v=vhqTiQdUHfY)<br>
-3. [ImersãoDev - O que é GitHub e como utilizar a ferramenta? - c/ Robson Júnior](https://www.youtube.com/watch?v=nec3n02idMw)<br>
-4. [Git e Github para Sobrevivência #01: Como o Git funciona?](https://www.youtube.com/watch?v=BAmvmaKQklQ&list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6&index=2)<br>
-5. [Git e Github para Sobrevivência #02: Como o merge funciona?](https://www.youtube.com/watch?v=t_UND1if4eI)<br>
-6. [Git e Github para Sobrevivência #07: Lidando com problemas de sincronização](https://www.youtube.com/watch?v=CbCn5_4WtP0)<br>
-
-
-
 
 <h1>Artigos propostos</h1>
 
-1. [O que é o HTML e suas tags? Parte 1: estrutura básica](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+2%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Primeira+se%C3%A7%C3%A3o&utm_campaign=%5BAlura+%237Days+of+Code%5D%28HTML+++CSS%29+Dia+2%3A+Primeira+se%C3%A7%C3%A3o&vgo_ee=mAgZkYkiFeSyVXUxCMEgGigFfsHX1KtEQ6so2w%2BCYb0%3D)
-2. [O que é o HTML e suas tags? Parte 2: elementos inline](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-2-elementos-inline?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+2%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Primeira+se%C3%A7%C3%A3o&utm_campaign=%5BAlura+%237Days+of+Code%5D%28HTML+++CSS%29+Dia+2%3A+Primeira+se%C3%A7%C3%A3o&vgo_ee=mAgZkYkiFeSyVXUxCMEgGigFfsHX1KtEQ6so2w%2BCYb0%3D)
-3. [O que é o HTML e suas tags? Parte 3: elementos block-level](https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+2%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Primeira+se%C3%A7%C3%A3o&utm_campaign=%5BAlura+%237Days+of+Code%5D%28HTML+++CSS%29+Dia+2%3A+Primeira+se%C3%A7%C3%A3o&vgo_ee=mAgZkYkiFeSyVXUxCMEgGigFfsHX1KtEQ6so2w%2BCYb0%3D)--->
+1. [O que é o HTML e suas tags? Parte 1: estrutura básica](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+2%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Primeira+se%C3%A7%C3%A3o)
+2. [O que é o HTML e suas tags? Parte 2: elementos inline](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-2-elementos-inline?utm_source=ActiveCampaign&utm_medium=email&utm_content=%237DaysOfCode+-+HTML+e+CSS+2%2F7%3A+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Primeira+se%C3%A7%C3%A3o)
+3. [O que é o HTML e suas tags? Parte 3: elementos block-level](https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=ActiveCampaign&utm_medium=email)--->
 4. [Flexbox CSS: Guia Completo, Elementos e Exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox) <br>
+5. [Criando componentes CSS com o padrão BEM](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem) <br>
 
-<h1>Cursos</h1>
 
-1.[Git e GitHub: dominando controle de versão de código](https://www.alura.com.br/curso-online-git-github-dominando-controle-versao-codigo)
+<h1>Referências externas</h1>
 
-<h1>Jogo</h1>
 1.[Flexbox](https://flexboxfroggy.com/)
+2.[TinyPNG](https://tinypng.com/)
+3.[FontAwesome](https://fontawesome.com/)
